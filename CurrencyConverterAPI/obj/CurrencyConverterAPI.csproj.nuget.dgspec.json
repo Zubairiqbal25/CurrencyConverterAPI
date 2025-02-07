@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
         "projectName": "CurrencyConverterAPI",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\CurrencyConverterAPI\\CurrencyConverterAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\CurrencyConverterAPI\\CurrencyConverterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
